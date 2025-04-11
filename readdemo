@@ -1,0 +1,7 @@
+#!/bin/bash
+#age=0
+#read -p " Enter age > " age -n
+#echo " your age is $age "
+
+echo "$(set) $(ls)"
+

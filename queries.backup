@@ -1,0 +1,12 @@
+	INSERT INTO people (firstname,lastname,age,gender)
+	VALUES ('Basheer','Ahmad','40','M');
+	INSERT INTO people (firstname,lastname,age,gender)
+	VALUES ('Mohan','Sriastava','30','M');
+	INSERT INTO people (firstname,lastname,age,gender)
+	VALUES ('Nigar','Praveen','22','F');
+	INSERT INTO people (firstname,lastname,age,gender)
+	VALUES ('Basheer','Ahmad','40','M');
+	INSERT INTO people (firstname,lastname,age,gender)
+	VALUES ('Mohan','Sriastava','30','M');
+	INSERT INTO people (firstname,lastname,age,gender)
+	VALUES ('Nigar','Praveen','22','F');

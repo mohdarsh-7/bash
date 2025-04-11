@@ -1,0 +1,6 @@
+#!/bin/bash
+my first language was java language
+my second language was c languag
+my third language was javaScript
+i know c++ also
+i know python too

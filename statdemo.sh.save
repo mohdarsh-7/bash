@@ -1,0 +1,7 @@
+#!/bin/bash
+i=0
+j=0
+for file in $1
+do
+	#file#"abc.txt"
+	
